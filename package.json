@@ -2,7 +2,6 @@
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://vedant01.github.io/project",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,12 +13,12 @@
     "@emailjs/browser": "^4.1.0",
     "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^14.2.1",
+    "@testing-library/react": "^16.2.0",
     "lucide-react": "^0.344.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-redux": "^9.1.0",
-    "react-router-dom": "^6.22.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.3.0",
     "vitest": "^3.0.9"
   },
   "devDependencies": {
